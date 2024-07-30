@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "Questions":" Which of the following is the correct name of React.js?",
+        "options":["React","React.js","Reactjs","All of the above"],
+        "correctOption": "All of the above"
+    },
+    {
+        "id":2,
+        "Questions":" What of the following is used in React.js to increase performance? ",
+        "options":["Original DOM","Virtual DOM","Both A and B.","None of the above."],
+        "correctOption": "Virtual DOM"
+    },
+    {
+        "id":3,
+        "Questions":"  Which of the following acts as the input of a class-based component?",
+        "options":["Class","Factory","Render","PROPS"],
+        "correctOption": "PROPS"
+    },
+    {
+        "id":4,
+        "Questions":" Which of the following keyword is used to create a class inheritance? ",
+        "options":["Create","Inherits","Extends","This"],
+        "correctOption": "Extends"
+    },
+    {
+        "id":5,
+        "Questions":" What does ES6 stand for?",
+        "options":["ECMAScript 6","ECMA 6","ECMAJavaScript 6","EJavaScript 6"],
+        "correctOption": "ECMAScript 6"
+    },
+    {
+        "id":6,
+        "Questions":" Which of the following method refers to the parent class in React.js? ",
+        "options":["inherits()","self()","super()","this()"],
+        "correctOption": "super()"
+    },
+    {
+        "id":7,
+        "Questions":"Which of the following is a basic hook in react? ",
+        "options":["useReducer()","useMemo()","useCallback()","useContext()"],
+        "correctOption": "useContext()"
+    },
+    {
+        "id":8,
+        "Questions":" React is a ___",
+        "options":["Frontend Framework","Backend Framework","JavaScript Library","JavaScript Module"],
+        "correctOption": "JavaScript Library"
+    },
+    {
+        "id":9,
+        "Questions":"JSX allows us to write____ ",
+        "options":["BootStrap in React","Jquery in React","HTML in React","MongoDB in React"],
+        "correctOption": "HTML in React"
+    },
+    {
+        "id":10,
+        "Questions":"How many types of components are there in react? ",
+        "options":["1","2","3","4"],
+        "correctOption": "2"
+    },
+    {
+        "id":11,
+        "Questions":"What is the correct syntax for  arrow function? ",
+        "options":["()","=>","()=>",">=()"],
+        "correctOption": "()=>"
+    },
+    {
+        "id":12,
+        "Questions":"Which of the following is not a method of redux store? ",
+        "options":["getState()","subscribe()","dispact()","render()"],
+        "correctOption": "render()"
+    },
+    {
+        "id":13,
+        "Questions":" Which technique is used in React Memo?",
+        "options":["Hashing","Memoization","Sorting","Pipelining"],
+        "correctOption": "Memoization"
+    },
+    {
+        "id":14,
+        "Questions":"  What is the default port where webpack-server runs?",
+        "options":["3000","8080","3030","6060"],
+        "correctOption": "8080"
+    },
+    {
+        "id":15,
+        "Questions":" How many ways of defining your variables in ES6?",
+        "options":["1","3","4","5"],
+        "correctOption": "3"
+    }
+]
